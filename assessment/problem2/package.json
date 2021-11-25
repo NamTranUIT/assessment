@@ -1,0 +1,11 @@
+{
+  "name": "poker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "Nam Tran",
+  "license": "ISC"
+}
